@@ -1,0 +1,5 @@
+******* Jogo da Advinhacao em Python *******
+O objetivo do jogo e adivinhar um numero aleatorio. Na primeira fase sera um numero aleatorio entre 0 e 10.
+Quando voce acerta voce avanca de fase, dessa forma aumenta o numero de opcoes de numeros aleatorios.
+A qualquer momento do jogo voce pode voltar para o menu principal digitando ':q' em qualquer lugar.
+Se voce entendeu clique ':q' para mostrar que sim e sair :) 
